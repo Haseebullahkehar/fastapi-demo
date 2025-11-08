@@ -1,0 +1,103 @@
+{
+    "P006": {
+        "name": "Amit Khanna",
+        "city": "Hyd",
+        "age": 26,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 80.0,
+        "bmi": 23.66,
+        "verdict": "Normal",
+        "id": "P006"
+    },
+    "P007": {
+        "name": "Priya Nair",
+        "city": "Chennai",
+        "age": 32,
+        "gender": "female",
+        "height": 1.58,
+        "weight": 60,
+        "bmi": 24.03,
+        "verdict": "Normal"
+    },
+    "P008": {
+        "name": "Rahul Deshmukh",
+        "city": "Pune",
+        "age": 38,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 92,
+        "bmi": 28.4,
+        "verdict": "Overweight"
+    },
+    "P009": {
+        "name": "Kavita Joshi",
+        "city": "Jaipur",
+        "age": 29,
+        "gender": "female",
+        "height": 1.62,
+        "weight": 78,
+        "bmi": 29.72,
+        "verdict": "Overweight"
+    },
+    "P010": {
+        "name": "Mohit Reddy",
+        "city": "Hyderabad",
+        "age": 41,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 104,
+        "bmi": 33.95,
+        "verdict": "Obese"
+    },
+    "P011": {
+        "name": "Simran Kaur",
+        "city": "Amritsar",
+        "age": 24,
+        "gender": "female",
+        "height": 1.68,
+        "weight": 48,
+        "bmi": 17.02,
+        "verdict": "Underweight"
+    },
+    "P012": {
+        "name": "Rohit Gupta",
+        "city": "Lucknow",
+        "age": 35,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 65,
+        "bmi": 22.49,
+        "verdict": "Normal"
+    },
+    "P013": {
+        "name": "Aisha Ali",
+        "city": "Srinagar",
+        "age": 31,
+        "gender": "female",
+        "height": 1.59,
+        "weight": 83,
+        "bmi": 32.85,
+        "verdict": "Obese"
+    },
+    "P014": {
+        "name": "Nikhil Verma",
+        "city": "Bhopal",
+        "age": 27,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 75,
+        "bmi": 24.21,
+        "verdict": "Normal"
+    },
+    "P015": {
+        "name": "Riya Patel",
+        "city": "Ahmedabad",
+        "age": 36,
+        "gender": "female",
+        "height": 1.61,
+        "weight": 68,
+        "bmi": 26.23,
+        "verdict": "Overweight"
+    }
+}
